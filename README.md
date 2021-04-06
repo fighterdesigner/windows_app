@@ -13,7 +13,7 @@ npm run start
 
 ```
 
-npm i to install all the devDependencies wich are "nw" and "nw-builder".
+npm i to install all the devDependencies which are "nw" and "nw-builder".
 npm run start to run this script "nw src/" to see your application
 
 ##### build the application
