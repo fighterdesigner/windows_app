@@ -38,4 +38,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: code-coverage-report
-        path: output/test/code-coverage.html
+        path: /home/runner/work/windows_app/windows_app/dist/src/win64
